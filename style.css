@@ -1,0 +1,48 @@
+body
+{background-color: black;}
+
+a
+{
+color: green;
+font-size: 15px;
+text-align: center;
+}
+
+a:hover
+
+{color: red;
+text-decoration: underlined;
+}
+
+h1
+{
+text-align: center;
+color: red;
+font-size: 44px;
+}
+
+h3
+{
+color: orange;
+font-size: 26px;
+}
+
+h4
+{
+color: orange;
+font-size: 22px;
+}
+
+
+h6
+{
+text-align: center;
+color: orange;
+font-size: 13px;
+}
+
+p
+{
+color: rgb(35, 68, 217);
+font-size: 16px;
+}
